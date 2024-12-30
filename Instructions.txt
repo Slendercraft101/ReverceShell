@@ -1,0 +1,29 @@
+HOW TO USE:
+
+1) Open the Client file and at lines 6, 7, and 8 change the IP, Port, and USER all to 
+valid info
+
+2) If client is on same network use ipconfig in the cmd terminal and use IPv4 Address,
+however if on diffrent networks open / run the Public_IP.py and copy provided IP
+
+(You will need to place the client file in the startup menu if you want a steady
+continues connection. I will add a file later to automaticly copy and run client.)
+
+
+
+Non-Malicious Use Only: This reverse shell is intended solely for educational, security 
+research, and legitimate purposes. It must not be used for any malicious, illegal, or 
+unauthorized activities, including but not limited to hacking, exploiting, or damaging 
+other systems or networks.
+
+No Commercial Use: You are prohibited from selling, distributing, or otherwise 
+transferring this reverse shell for monetary or non-monetary gain. This software is 
+provided "as-is" and may not be licensed, resold, or copied without explicit written 
+permission from the original author.
+
+No Redistribution: You may not redistribute, sublicense, or share this reverse shell in 
+any form. Unauthorized distribution is a violation of the terms.
+
+Accountability: The author assumes no responsibility for any damages, loss of data, or 
+other negative consequences that may arise from using this software. You, the user, are 
+solely responsible for your actions when using this reverse shell.
